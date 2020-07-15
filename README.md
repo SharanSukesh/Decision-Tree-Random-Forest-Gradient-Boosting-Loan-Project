@@ -1,5 +1,3 @@
-Using Decision trees, Random Forests and Gradient boosting algorithms to predict Loan repayment probability 
-
 # Decision-Tree-Random-Forest-Gradient-Boosting-Loan-Project
 
 <!-- TABLE OF CONTENTS -->
@@ -19,7 +17,7 @@ Using Decision trees, Random Forests and Gradient boosting algorithms to predict
 Exploratory Data Analysis of LendingClub dataset to fit various tree-based models and answer the problem statement.</br></br>
 The python notebook __"02-Decision Trees and Random Forest Project"__ contains an initial EDA of data from the LendingClub and analyzes how different features impact the probability of a customer defaulting a loan payment. 
 
-We fit various tree-based models on our data and see how well they perform. We will then compare their accuracy scores and other metrics to see which models performed the best.
+We fit various tree-based models on our data and see how well they perform. We will then compare their accuracy scores and other metrics to see which models performed the best. Our goal is to use Decision trees, Random Forests and Gradient boosting algorithms to predict Loan repayment probability.
 
 ## Libraries used 
 * Numpy
