@@ -54,6 +54,6 @@ from sklearn.metrics import classification_report,confusion_matrix
 3. Evaluating the Model using various metrics
 
 ## Ackowledgements
-* <a href='http://www.lendingclub.com'>Perian Data</a> - Dataset
+* <a href='http://www.lendingclub.com'>Lending Club</a> - Dataset
 
 ## Author - Sharan Sukesh
