@@ -1,4 +1,4 @@
-# Decision-Tree-Random-Forest-Gradient-Boosting-Loan-Project
+# Loan Repayment Prediction using Decision Tree, Random-Forest and Gradient-Boosting models
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
