@@ -26,13 +26,17 @@ We fit various tree-based models on our data and see how well they perform. We w
 * Seaborn
 * sklearn
 
-```bash
-import numpy as np
+```bashimport numpy as np
 import pandas as pd
 import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report,confusion_matrix
+import matplotlib.pyplot as plt
+%matplotlib inline
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import classification_report,confusion_matrix 
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import RandomizedSearchCV
+from sklearn.model_selection import GridSearchCV
+from sklearn.ensemble import GradientBoostingClassifier
 ```
 
 ## Dataset used 
