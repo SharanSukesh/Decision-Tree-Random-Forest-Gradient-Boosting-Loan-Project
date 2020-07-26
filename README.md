@@ -1,4 +1,4 @@
-# Loan Repayment Prediction using Decision Tree, Random-Forest and Gradient-Boosting models
+# Loan Default Predictor using Decision Tree, Random-Forest and Gradient-Boosting models
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
